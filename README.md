@@ -16,12 +16,12 @@ The Services used in this application are,
 
 3. CLI Interface:
 •	On starting the application, we display a menu with options such as:
-1.	List all products
-2.	Add a product to the cart
-3.	View cart
-4.	Place an order
-5.	View order history
-6.	Exit
+->List all products
+->Add a product to the cart
+->View cart
+->Place an order
+->View order history
+->Exit
 •	Depending on the user's choice, perform the corresponding action, and then it will return to the menu.
 
 4. Running the app
